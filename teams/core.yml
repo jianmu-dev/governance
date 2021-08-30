@@ -1,19 +1,19 @@
 name: core
 
 purpose: |
-  设计建木核心概念, 通过RFC流程指导设计方向
+  设计建木核心概念, 通过RFC评审流程指导设计方向
 responsibilities:
-- 开发治理模型
-- 审查RFC
-- 通过RFC的审查过程来维护建木的设计原则
+- 建立建木社区开发治理模型
+- 审查RFC过程来维护建木设计原则
 - clarify Concourse's design principles over time
 - reach consensus and usher each RFC through the resolution process
 - 与@community 团队合作收集RFC的反馈
-- 与@maintainers 团队合作以确保接受的RFC的实现
-- 与@maintainers 团队合作制定符合建木设计原则的产品路线图
+- 与@maintainers 团队合作确保社区接受的RFC的进展
+- 与@maintainers 团队合作制定符合建木设计原则的软件理念
 
 members:
 - ethan-liu
+- topshare
 
 repos:
 - governance
