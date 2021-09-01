@@ -8,8 +8,8 @@ responsibilities:
 - clarify Concourse's design principles over time
 - reach consensus and usher each RFC through the resolution process
 - 与@community 团队合作收集RFC的反馈
-- 与@maintainers 团队合作确保社区接受的RFC的进展
-- 与@maintainers 团队合作制定符合建木设计原则的软件理念
+- 与@maintainers 团队合作确保社区接受的RFC的实现
+- 与@maintainers 团队合作制定符合建木设计原则的产品路线图
 
 members:
 - ethan-liu
