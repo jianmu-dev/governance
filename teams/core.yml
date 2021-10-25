@@ -5,8 +5,8 @@ purpose: |
 responsibilities:
 - 建立建木社区开发治理模型
 - 审查RFC过程来维护建木设计原则
-- clarify Concourse's design principles over time
-- reach consensus and usher each RFC through the resolution process
+- 阐明建木的设计原则
+- 通过决议流程达成对RFC的共识
 - 与@community 团队合作收集RFC的反馈
 - 与@maintainers 团队合作确保社区接受的RFC的实现
 - 与@maintainers 团队合作制定符合建木设计原则的产品路线图
