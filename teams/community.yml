@@ -3,11 +3,17 @@ name: community
 purpose: |
   发起和组织建木社区线上和线下活动，通过布道和推广吸引潜在用户和贡献者。
 responsibilities:
-- 发起和组织建木社区线下活动。
-- 募集建木社区活动所需的场地、经费等。
-- 通过线上和线下活动获得使用者和贡献者的反馈，用于优化和迭代。
+- 直接参与社区官方网站、文档维护。
+- 促进或者直接贡献内容创建（博客、小视频、公众号等）。
+- 发起和组织建木社区活动。
+- 通过活动获得使用者和贡献者的反馈，优化和迭代。
+- 促进社区和其他团队之间的沟通和反馈。
 
 members:
 - topshare
 
 repos:
+- jianmu-docs
+- jianmu-official-site
+- governance
+- office-events
