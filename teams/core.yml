@@ -1,15 +1,16 @@
 name: core
 
 purpose: |
-  设计建木核心概念, 通过RFC评审流程指导设计方向
+  设计建木核心概念, 通过RFC评审流程指导设计方向。
 responsibilities:
-- 建立建木社区开发治理模型
-- 审查RFC过程来维护建木设计原则
-- 阐明建木的设计原则
-- 通过决议流程达成对RFC的共识
-- 与@community 团队合作收集RFC的反馈
-- 与@maintainers 团队合作确保社区接受的RFC的实现
-- 与@maintainers 团队合作制定符合建木设计原则的产品路线图
+- 建立建木社区治理模型。
+- 审查RFC过程来维护建木设计原则。
+- 阐明建木的设计原则。
+- 通过决议流程达成对RFC的共识。
+- 新团队申请设立评审和组建初期指导。
+- 与@community 团队合作收集RFC的反馈。
+- 与@maintainers 团队合作确保社区接受的RFC的实现。
+- 与@maintainers 团队合作制定符合建木设计原则的产品路线图。
 
 members:
 - ethan-liu
